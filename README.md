@@ -1,4 +1,4 @@
-# Knot - Multichain Web3 Wallet Chrome Extension
+# Knot - Multichain Web3 Wallet + Chrome Extension
 
 A sleek, cyberpunk-themed multichain wallet Chrome extension that supports 10+ blockchain networks.
 
